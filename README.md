@@ -52,13 +52,13 @@ The goal of this project is to build an AI-powered assistant that:
     streamlit run app.py
 ---
 ## 📁 File Structure
-
-Multi-Language-Invoice-Analysis/
-├── app.py                # Main Streamlit app
-├── .env                  # Environment variables (not committed)
-├── requirements.txt      # Python dependencies
-├── README.md             # Project documentation
-└── demo_screenshot.png   # App screenshot
+    
+    Multi-Language-Invoice-Analysis/
+    ├── app.py                # Main Streamlit app
+    ├── .env                  # Environment variables (not committed)
+    ├── requirements.txt      # Python dependencies
+    ├── README.md             # Project documentation
+    └── demo_screenshot.png   # App screenshot
 
 ---
 ## 🧠 How it Works
