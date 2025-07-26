@@ -37,8 +37,8 @@ The goal of this project is to build an AI-powered assistant that:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/invoice_analysis.git
-   cd invoice_analysis
+   git clone https://github.com/your-username/Multi-Language-Invoice-Analysis.git
+   cd Multi-Language-Invoice-Analysis
 2.  **Create and activate a virtual environment:**
     ```bash
     conda create -p venv python=3.10 y-
@@ -53,12 +53,13 @@ The goal of this project is to build an AI-powered assistant that:
 ---
 ## 📁 File Structure
 
-invoice_analysis/
+Multi-Language-Invoice-Analysis/
 ├── app.py                # Main Streamlit app
 ├── .env                  # Environment variables (not committed)
 ├── requirements.txt      # Python dependencies
 ├── README.md             # Project documentation
 └── demo_screenshot.png   # App screenshot
+
 ---
 ## 🧠 How it Works
 The user uploads an invoice image and enters a query (e.g., "What is the due date?").
